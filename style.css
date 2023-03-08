@@ -1,0 +1,19 @@
+* {
+color:#CB6015;
+border: 2px solid green;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#profile {
+height: auto;
+width: 500px;
+}
+.flexContainer{
+
+}
+
+.flexContainer div {
+    background: #CB6015;
+    border: 4px solid brown;
+    height: 100px;
+}
